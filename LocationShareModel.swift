@@ -11,6 +11,7 @@ import UIKit
 
 class LocationShareModel : NSObject {
     var timer : NSTimer?
+    var delay10Seconds: NSTimer?
     var bgTask : BackgroundTaskManager?
     var myLocationArray : NSMutableArray?
     
