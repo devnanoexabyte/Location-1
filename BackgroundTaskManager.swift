@@ -2,8 +2,8 @@
 //  BackgroundTaskManager.swift
 //  LocationSwing
 //
-//  Created by Mazhar Biliciler on 14/07/14.
-//  Copyright (c) 2014 Mazhar Biliciler. All rights reserved.
+//  Created by Marc Pellus on 5/02/16.
+//  Copyright (c) 2016 Marc Pellus. All rights reserved.
 //
 
 import Foundation
